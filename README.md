@@ -100,6 +100,9 @@ Create a `.env` file in the project root:
 ```bash
 HF_TOKEN=your_huggingface_token
 S3_BUCKET_NAME=your_bucket_name
+AWS_ACCESS_KEY_ID=your_aws_access_id
+AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
+
 ```
 
 ---
@@ -180,3 +183,4 @@ Data Engineer & AI Developer
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
