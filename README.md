@@ -7,7 +7,11 @@ This project implements a **Retrieval-Augmented Generation (RAG)** data pipeline
 The pipeline is modular and built for scalability, integrating **speech-to-text transcription**, **speaker diarization**, **FAISS-based vector storage**, and **retrieval mechanisms** for generative AI models.
 
 ---
+## Architecture Diagram
 
+![Architecture Diagram](./architecture.png)
+
+---
 ## 🧩 Architecture
 
 The RAG Data Pipeline consists of the following major components:
@@ -173,6 +177,7 @@ Data Engineer & AI Developer
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
 
 
 
