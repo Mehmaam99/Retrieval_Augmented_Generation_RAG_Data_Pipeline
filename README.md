@@ -121,16 +121,6 @@ This will:
 2. Transcribe them into text.
 3. Generate embeddings and build FAISS vector stores.
 
-### Run the Embedding Engine Separately
-
-```bash
-python src/embedding_engine.py
-```
-
-This will encode text files in `transcriptions/downloads/` and create FAISS indexes.
-
----
-
 ## 📊 Logging
 
 Logs are stored in the `logs/` directory:
@@ -143,12 +133,12 @@ Logs are stored in the `logs/` directory:
 
 ## 💡 Key Features
 
-✅ Fully automated audio-to-text + vector embedding pipeline.
-✅ Modular architecture for extensibility.
-✅ Handles long-form audio and multilingual transcription.
-✅ Scalable to large datasets (tens of thousands of files).
-✅ Built-in FAISS vector search for efficient retrieval.
-✅ Hugging Face Whisper integration for transcription.
+✅ Fully automated audio-to-text + vector embedding pipeline.\n
+✅ Modular architecture for extensibility.\n
+✅ Handles long-form audio and multilingual transcription.\n
+✅ Scalable to large datasets (tens of thousands of files). \n
+✅ Built-in FAISS vector search for efficient retrieval. \n
+✅ Hugging Face Whisper integration for transcription. \n
 
 ---
 
@@ -183,4 +173,5 @@ Data Engineer & AI Developer
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
 
