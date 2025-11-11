@@ -164,7 +164,7 @@ Logs are stored in the `logs/` directory:
 
 ## 👨‍💻 Author
 
-**Muhammad Mehmaam**
+**Muhammad Mehmam**
 Data Engineer & AI Developer
 🔗 [GitHub Profile](https://github.com/Mehmaam99)
 
@@ -173,6 +173,7 @@ Data Engineer & AI Developer
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
 
 
 
