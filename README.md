@@ -133,11 +133,11 @@ Logs are stored in the `logs/` directory:
 
 ## 💡 Key Features
 
-✅ Fully automated audio-to-text + vector embedding pipeline./n
-✅ Modular architecture for extensibility./n
-✅ Handles long-form audio and multilingual transcription./n
-✅ Scalable to large datasets (tens of thousands of files). /n
-✅ Built-in FAISS vector search for efficient retrieval. /n
+✅ Fully automated audio-to-text + vector embedding pipeline.
+✅ Modular architecture for extensibility.
+✅ Handles long-form audio and multilingual transcription.
+✅ Scalable to large datasets (tens of thousands of files).
+✅ Built-in FAISS vector search for efficient retrieval.
 ✅ Hugging Face Whisper integration for transcription. /n
 
 ---
@@ -173,6 +173,7 @@ Data Engineer & AI Developer
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
 
 
 
